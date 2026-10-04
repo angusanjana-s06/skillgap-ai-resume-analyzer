@@ -1,0 +1,60 @@
+JOHN DOE
+
+Email: john.doe@example.com
+Phone: +91 9876543210
+Location: Bengaluru, India
+
+CAREER OBJECTIVE
+
+Motivated computer science graduate seeking an entry-level position
+as a Python Developer. Interested in software development and
+building practical applications using Python.
+
+EDUCATION
+
+Bachelor of Computer Applications
+XYZ College, Bengaluru
+CGPA: 8.5
+
+TECHNICAL SKILLS
+
+Python
+SQL
+HTML
+JavaScript
+Streamlit
+Excel
+C++
+
+PROJECTS
+
+Student Management System
+- Developed a basic application using Python and SQL.
+- Implemented student record management.
+
+SkillGap AI
+- Developed a resume analysis application using Python and Streamlit.
+- Identifies technical skills from resumes.
+
+INTERNSHIP
+
+Web Development Intern
+ABC Technologies
+Duration: 3 Months
+
+- Worked on basic web development tasks.
+- Created web pages using HTML and JavaScript.
+
+CERTIFICATIONS
+
+Python Programming
+SQL Fundamentals
+AWS Cloud Practitioner
+
+SOFT SKILLS
+
+Communication
+Teamwork
+Problem Solving
+Time Management
+Quick Learning
